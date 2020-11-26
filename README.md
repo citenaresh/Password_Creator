@@ -6,7 +6,7 @@ This is a web app focussing on Javascript to create a random and secure password
 
 This has been deployed to GitHub. To get this web app ( or project) up and running, one can follow the link(deployment).one can also download the file to use as template.
  
-* [GitHub Repository](URL)
+* [GitHub Repository](https://github.com/citenaresh/Password_Creator/)
 * [Deployed GitHub IO](URL)
 
 ![Password-Generator Demo](assets/demo/pPassMaker.gif)
