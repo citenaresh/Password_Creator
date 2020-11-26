@@ -91,7 +91,7 @@ for installing, You can download the zipped file, or You can clone from Github.
 
 ## Authors
 
-* **Naresh Raj Poudel** - [Git Hub Profile](URL)
+* **Naresh Raj Poudel** - [Git Hub Profile](https://github.com/citenaresh): https://github.com/citenaresh
 
 ## Acknowledgments
 
