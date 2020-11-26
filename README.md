@@ -105,4 +105,4 @@ for installing, You can download the zipped file, or You can clone from Github.
 
 ## Acknowledgments
 
-* Great gratitude to Luca([https://github.com/duvet86](url)), Sam ([https://github.com/sam-ngu](https://github.com/sam-ngu)) and Renata from the UWA Bootcamp for their enormous help.
+* Great gratitude to Luca ([https://github.com/duvet86](https://github.com/duvet86)), Sam ([https://github.com/sam-ngu](https://github.com/sam-ngu)) and Renata from the UWA Bootcamp for their enormous help.
