@@ -13,8 +13,14 @@ The Demo for the Password Creator:
 ![Password-Creatorr Demo](assets/Demo/PassMaker.gif)
 
 The validation has been done for the three files and the screenshots are:
+### CSS validation
 ![CSS validation](assets/Images/Code_Validator/CSS_Validator.png)
 
+### HTML validation
+![CSS validation](assets/Images/Code_Validator/HTML_Validator.png)
+
+### Javascript validation
+![CSS validation](assets/Images/Code_Validator/JS_Validator.png)
 
 ### what you need
 
