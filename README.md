@@ -12,6 +12,10 @@ This has been deployed to GitHub. To get this web app ( or project) up and runni
 The Demo for the Password Creator:
 ![Password-Creatorr Demo](assets/Demo/PassMaker.gif)
 
+The validation has been done for the three files and the screenshots are:
+![CSS validation](assets/Images/Code_Validator/CSS_Validator.png)
+
+
 ### what you need
 
 To install this web app, a text editor is needed, my recommendation is for Visual Studio Code but even the notepad work as fine as VS Code. 
@@ -95,4 +99,4 @@ for installing, You can download the zipped file, or You can clone from Github.
 
 ## Acknowledgments
 
-* Great gratitude to Luca[Luca's profile](url), Sam ([https://github.com/sam-ngu](https://github.com/sam-ngu)) and Renata from the UWA Bootcamp for their enormous help.
+* Great gratitude to Luca([Luca's profile](url)), Sam ([https://github.com/sam-ngu](https://github.com/sam-ngu)) and Renata from the UWA Bootcamp for their enormous help.
