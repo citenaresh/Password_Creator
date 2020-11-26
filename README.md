@@ -9,8 +9,8 @@ This has been deployed to GitHub. To get this web app ( or project) up and runni
 * [GitHub Repository](https://github.com/citenaresh/Password_Creator/): https://github.com/citenaresh/Password_Creator/
 * [Deployed GitHub IO](https://citenaresh.github.io/Password_Creator/index.html): https://citenaresh.github.io/Password_Creator/index.html
 
-!The Demo for the Password Creator:
-[Password-Creatorr Demo](assets/Demo/PassMaker.gif)
+The Demo for the Password Creator:
+![Password-Creatorr Demo](assets/Demo/PassMaker.gif)
 
 ### what you need
 
