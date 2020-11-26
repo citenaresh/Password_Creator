@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <!-- This is the first step in making the document responsive but scaling the items to screen -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- This is the title-->
+    <title>Password Creator</title>
+    <!-- These are the style links. Reset CSS and Styles CSS -->
+    <link rel="stylesheet" type="text/css" href="assets/reset.css">
+    <link rel="stylesheet" type="text/css" href="assets/style.css">
+
+</head>
+<!-- This is the body -->
+
+<body>
+    <!--This is the wrapper container with all of the content-->
+    <div id="wrapper">
+        <header>
+            <h1>Password Creator</h1>
+        </header>
+        <!--This is the content area-->
+        <div id="AllContent">
+            <h2>Create a Password</h2>
+            <hr>
+            <!-- Text area for output-->
+            <textarea readonly id="password" placeholder="Your Secure Password"
+                aria-label="Created Password"></textarea>
+            <hr>
+            <!-- div for the buttons -->
+            <div id="btn">
+                <!-- Create password button -->
+                <button id="create">Create
+                    Password</button>
+                <!-- copy button -->
+                <button id="copybtn">Copy to Clipboard</button>
+
+
+            </div>
+        </div>
+    </div>
+
+
+    <!-- The Javascript document-->
+    <script src="myscript.js"></script>
+</body>
+
+</html>
