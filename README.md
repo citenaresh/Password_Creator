@@ -95,4 +95,4 @@ for installing, You can download the zipped file, or You can clone from Github.
 
 ## Acknowledgments
 
-* Great gratitude to Luca[Luca's profile](url), Sam[Sam's profile](https://github.com/sam-ngu) and Renata from the UWA Bootcamp for their enormous help.
+* Great gratitude to Luca[Luca's profile](url), Sam[https://github.com/sam-ngu](https://github.com/sam-ngu) and Renata from the UWA Bootcamp for their enormous help.
