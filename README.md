@@ -9,7 +9,7 @@ This has been deployed to GitHub. To get this web app ( or project) up and runni
 * [GitHub Repository](https://github.com/citenaresh/Password_Creator/)
 * [Deployed GitHub IO](URL)
 
-![Password-Generator Demo](assets/demo/PassMaker.gif)
+![Password-Creatorr Demo](assets/demo/PassMaker.gif)
 
 ### what you need
 
