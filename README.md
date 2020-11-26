@@ -29,17 +29,17 @@ for installing, You can download the zipped file, or You can clone from Github.
     * This button will ask the user series of questions (in the form of prompts and confirms)
     * After the data(input), from the user, is collected, a random password will be generated using Javascript
 
-![](assets/Images/CreatePassword.PNG)
+!(assets/Images/CreatePassword.PNG)
 
 * A Textarea
     * This box will display the users password when it is created after the user input
 
-![](assets/Images/CreatePassword.PNG)
+!(assets/Images/CreatePassword.PNG)
 
 * A Copy button 
     * This will copy the users password to the user's devices clipboard
 
-![](assets/Images/CreatePassword.PNG)
+!(assets/Images/CreatePassword.PNG)
 
 ### The Psuedo Code for the Project: 
 * The user will be prompted to choose the password from the following criteria: 8 and 128 characters
