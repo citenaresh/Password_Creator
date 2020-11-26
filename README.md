@@ -40,7 +40,7 @@ for installing, You can download the zipped file, or You can clone from Github.
 
 ![](assets/Images/CreatePassword.PNG)
 
-### Thw Psuedo Code for the Project: 
+### The Psuedo Code for the Project: 
 * The user will be prompted to choose the password from the following criteria: 8 and 128 characters
 * The user will recieve a confirm for: 
     * Password containing special characters, numbers, and uppercase letters
