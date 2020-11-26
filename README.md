@@ -34,12 +34,12 @@ for installing, You can download the zipped file, or You can clone from Github.
 * A Textarea
     * This box will display the users password when it is created after the user input
 
-!(assets/Images/CreatePassword.png)
+![text area](assets/Images/CreatePassword.png)
 
 * A Copy button 
     * This will copy the users password to the user's devices clipboard
 
-!(assets/Images/CreatePassword.png)
+![copy](assets/Images/CreatePassword.png)
 
 ### The Psuedo Code for the Project: 
 * The user will be prompted to choose the password from the following criteria: 8 and 128 characters
