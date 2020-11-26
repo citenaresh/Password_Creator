@@ -29,7 +29,7 @@ for installing, You can download the zipped file, or You can clone from Github.
     * This button will ask the user series of questions (in the form of prompts and confirms)
     * After the data(input), from the user, is collected, a random password will be generated using Javascript
 
-![(assets/Images/CreatePassword.png)]
+![button](assets/Images/CreatePassword.png)
 
 * A Textarea
     * This box will display the users password when it is created after the user input
